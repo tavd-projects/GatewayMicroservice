@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IIsubfohdcTRZ5YObCRWV08NyGL9MOCmGoaX3IuiCfU=",
+  "Source": "GatewayMicroservice",
+  "BasePath": "_content/GatewayMicroservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
